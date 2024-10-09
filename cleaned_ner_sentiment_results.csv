@@ -1,0 +1,229 @@
+Title,Entities,Sentiment,Sentiment Score
+title,[],Neutral,0.5446974635124207
+the brutalist report,[],Negative,0.7983839511871338
+a popular but wrong way to convert a string to uppercase or lowercase,[],Negative,0.6726369857788086
+signoz (yc w21) is hiring site reliability engineers (remote),[],Neutral,0.9054446816444397
+want growth? kill small businesses,[],Negative,0.7321048378944397
+ask hn: good online maths communities?,[],Neutral,0.8874506950378418
+engineering geology of the bart system (2000),[],Neutral,0.8016054034233093
+salt typhoon hacked us broadband providers and breached wiretap systems,[],Negative,0.8112944960594177
+mexico revives century-old railway in $2.8b bid to rival panama canal (2023),"[('▁mexico▁panama▁canal', 'I-LOC')]",Neutral,0.8845034837722778
+show hn: running game boy roms on the stm32 arm cortex microcontroller,[],Neutral,0.9308211803436279
+ask hn: have you built something that users have become addicted to or overused?,[],Neutral,0.5459534525871277
+the costs of the i386 to x86-64 upgrade,[],Neutral,0.8386723399162292
+ftx creditors will make money on bankruptcy: $1.19 for every dollar,[],Neutral,0.7580692768096924
+japan's cat island won't survive much longer,"[('▁japan', 'I-LOC')]",Negative,0.8536493182182312
+an illustrated proof of the cap theorem,[],Neutral,0.8562886118888855
+video surveillance with yolo+llava,[],Neutral,0.8834349513053894
+moneygram says hacker stole customers' personal information and transaction data,[],Negative,0.7189455628395081
+rust is rolling off the volvo assembly line,"[('▁volvo', 'I-MISC')]",Neutral,0.8160963654518127
+witches around the world,[],Negative,0.6396436095237732
+private equity ruins tech companies,[],Negative,0.8549307584762573
+ublock origin supports filtering cname cloaking sites on firefox now,"[('▁firefox', 'I-MISC')]",Neutral,0.8378552794456482
+show hn: ai-generated images that look like real life,[],Neutral,0.8080424070358276
+how private intelligence companies became the new spymasters,[],Neutral,0.7169931530952454
+sam altman goes full emperor,"[('▁sam▁altman', 'I-PER')]",Neutral,0.7938636541366577
+is aws s3 having an outage?,"[('▁aws▁s3', 'I-MISC')]",Neutral,0.6388154029846191
+is the attack helicopter dead?,[],Neutral,0.6156079173088074
+gunter's space page,"[('▁gunter', 'I-PER')]",Neutral,0.7783680558204651
+who's a good boy? a puppy linux mini-review,[],Positive,0.5876510143280029
+"google must crack open android for third-party stores, rules epic judge","[('▁google', 'I-ORG'), ('▁android', 'I-MISC')]",Neutral,0.7223993539810181
+wigle.net: all the networks. found by everyone,"[('▁wiglenet', 'I-ORG')]",Neutral,0.70557701587677
+"microsoft didn't sandbox windows defender, so i did (2017)","[('▁microsoft', 'I-ORG'), ('▁windows▁defender', 'I-MISC')]",Neutral,0.5298221111297607
+eurobsdcon 2024 some notes after the conference,"[('▁euro', 'I-MISC')]",Neutral,0.9076921939849854
+"decoding bitcoin: an interactive, exercise-heavy approach to learning bitcoin",[],Neutral,0.6339535117149353
+us antitrust case against amazon to move forward,"[('▁us', 'I-LOC'), ('▁amazon', 'I-ORG')]",Neutral,0.7724915146827698
+do not use secrets in environment variables and,[],Neutral,0.5448285341262817
+the verge,[],Neutral,0.5586134195327759
+google docs will let users organize information into tabs,"[('▁google▁do', 'I-MISC')]",Positive,0.6199724674224854
+samsung apologizes for making just $6.8 billion last quarter,"[('▁samsung', 'I-ORG')]",Neutral,0.4913613796234131
+apple’s next macbook pros might have leaked in russia,"[('▁apple', 'I-ORG'), ('▁macbook▁pros', 'I-MISC'), ('▁russia', 'I-LOC')]",Neutral,0.6885757446289062
+"chevy’s cheapest silverado ev now starts at $57,095","[('▁chevy', 'I-ORG'), ('▁silverado', 'I-MISC')]",Neutral,0.8843131065368652
+"another major hurricane is approaching florida, one of the most rapidly intensifying on record","[('▁florida', 'I-LOC')]",Neutral,0.8038715124130249
+watch this one minute preview of apple’s first scripted vision pro short,"[('▁apple', 'I-ORG')]",Neutral,0.7263877391815186
+judge greenlights ftc’s antitrust suit against amazon,"[('▁ftc▁amazon', 'I-ORG')]",Neutral,0.8248156905174255
+"google must crack open android for third-party stores, rules epic judge","[('▁google', 'I-ORG'), ('▁android', 'I-MISC')]",Neutral,0.7223993539810181
+ubisoft responds to rumors about tencent’s potential buyout,"[('▁ubisoft▁tencent', 'I-ORG')]",Neutral,0.8488487601280212
+arstechnica,[],Neutral,0.6875187158584595
+"reports: china hacked verizon and at&t, may have accessed us wiretap systems","[('▁china', 'I-LOC'), ('▁verizon▁at&t', 'I-ORG'), ('▁us', 'I-LOC')]",Neutral,0.5615870356559753
+spacex launches europe’s hera asteroid mission ahead of hurricane milton,"[('▁spacex', 'I-ORG'), ('▁europe', 'I-LOC')]",Neutral,0.9229547381401062
+"alien: isolation sequel bursts into existence, 10 years after original",[],Neutral,0.8565927147865295
+"report: first wave of m4 macs, including smaller mac mini, coming november 1","[('▁mac▁mini', 'I-MISC')]",Neutral,0.8097802400588989
+elon musk’s x loses battle over federal request for trump’s dms,"[('▁elon▁musk▁trump', 'I-PER')]",Neutral,0.5310442447662354
+"scotus denial ends saga of shkreli’s infamous 5,000% drug price scheme","[('▁shkreli', 'I-PER')]",Negative,0.5745719075202942
+fcc lets starlink provide service to cell phones in areas hit by hurricane,[],Neutral,0.7770301699638367
+smart tvs are like “a digital trojan horse” in people’s homes,[],Negative,0.5266092419624329
+medicine nobel goes to previously unknown way of controlling genes,"[('▁no', 'I-MISC')]",Neutral,0.7684550881385803
+hurricane milton becomes second-fastest storm to reach category 5 status,[],Neutral,0.6403511762619019
+the register,[],Neutral,0.6707693338394165
+workday beats oracle and microsoft in uk 'matrix' erp deal,"[('▁oracle▁microsoft', 'I-ORG'), ('▁uk', 'I-LOC')]",Neutral,0.876940906047821
+"microsoft veteran ditches team tabs, blaming storage trauma of yesteryear","[('▁microsoft', 'I-ORG')]",Negative,0.6574175357818604
+"a year after taking on intel's nuc mini-pcs, asus says it's ready to improve them","[('▁intel▁asus', 'I-ORG')]",Neutral,0.5560407638549805
+"happy birthday, putin – you've been pwned","[('▁putin', 'I-PER')]",Positive,0.9083017110824585
+"xcp-ng thanks broadcom for increased interest, swipes citrix for not helping build an alternative","[('cp-ng▁citrix', 'I-ORG')]",Positive,0.6391494274139404
+samsung apologizes for bad financial performance,"[('▁samsung', 'I-ORG')]",Negative,0.5987674593925476
+"google brings better bricking to androids, to curtail crims","[('▁google', 'I-ORG')]",Neutral,0.5637467503547668
+china reportedly tells local ai buyers to ignore nvidia,"[('▁china', 'I-LOC'), ('▁nvidi', 'I-ORG')]",Neutral,0.6687424182891846
+feds reach for sliver of crypto-cash nicked by north korea's notorious lazarus group,"[('▁fed', 'I-ORG'), ('▁north▁korea', 'I-LOC'), ('▁lazarus', 'I-ORG')]",Neutral,0.574011504650116
+epic judge orders google to let rivals set up app stores,"[('▁google', 'I-ORG')]",Neutral,0.6176086068153381
+inflection ai enterprise offering ditches nvidia gpus for intel's gaudi 3,"[('▁nvidia', 'I-MISC'), ('▁intel', 'I-ORG')]",Neutral,0.8960124850273132
+american water stops billing for h2o due to 'cybersecurity incident',[],Negative,0.6340205669403076
+"american water rinsed in cyberattack, turns off app","[('▁american', 'I-MISC')]",Negative,0.6635843515396118
+vulcan centaur avoids faa scrutiny after losing solid rocket booster nozzle,[],Neutral,0.6151962876319885
+"geico tells el reg, no, it's not canceling all cybertruck insurance","[('▁geico', 'I-ORG')]",Neutral,0.7753734588623047
+"cops love facial recognition, and withholding info on its use from the courts",[],Neutral,0.4980977177619934
+"samsung chairman debunks foundry, chip biz spinoff rumors","[('▁samsung', 'I-ORG')]",Neutral,0.7481794357299805
+quantum computing dreamers face stock market reality check,[],Neutral,0.5515658259391785
+"chinese cyberspies reportedly breached verizon, at&t, lumen","[('▁verizon▁at&t', 'I-ORG')]",Neutral,0.6552683115005493
+"you're right not to rush into running amd, intel's new manycore monster cpus","[('▁am', 'I-MISC'), ('▁intel', 'I-ORG')]",Neutral,0.7268614768981934
+global semiconductor sales up 20.6% to record $53.1b as trade wars rage on,[],Neutral,0.667356014251709
+"netflix on mars? sure, thanks to nasa's laser comms demo","[('▁mars', 'I-LOC'), ('▁nasa', 'I-ORG')]",Positive,0.6683198809623718
+sap offers different way to move sql server-based software to the cloud,"[('▁sap', 'I-ORG')]",Positive,0.5720025300979614
+"windows 11 migration? upgrade engine revs up, enterprises have no choice","[('▁windows▁11', 'I-MISC')]",Neutral,0.5786843299865723
+atos stumbles again as french government says 'non' to rescue deal,"[('▁atos', 'I-ORG'), ('▁fren', 'I-MISC')]",Negative,0.5886641144752502
+rival browsers cry foul after microsoft edge slips through eu gatekeeper cracks,"[('▁microsoft▁edge', 'I-MISC'), ('▁eu', 'I-ORG')]",Negative,0.6301016211509705
+'critical' cups vulnerability chain easy to use for massive ddos attacks,[],Negative,0.5262946486473083
+three and vodafone: we need to merge because our networks are rubbish,"[('▁vodafone', 'I-ORG')]",Negative,0.9232513308525085
+three and vodafone: we need to merge because our networks are rubbish,"[('▁vodafone', 'I-ORG')]",Negative,0.9232513308525085
+phoronix,"[('▁phoronix', 'I-ORG')]",Neutral,0.6464289426803589
+gnome foundation announces cost cutting measures due to budget woes,"[('▁gnome', 'I-ORG')]",Neutral,0.6709514856338501
+"openbsd 7.6 released with avx-512, initial support for snapdragon x elite socs","[('▁openbsd▁snapdragon▁x▁elite', 'I-MISC')]",Neutral,0.5515634417533875
+fex 2410 released with new jit optimizations,"[('▁fex▁2410', 'I-MISC')]",Neutral,0.7872740626335144
+python 3.13 debuts with new interactive interpreter & experimental jit,"[('▁python▁3.', 'I-MISC')]",Neutral,0.7569486498832703
+wired,[],Neutral,0.5019316673278809
+best prime day mattress deals plus epic bedding sales (2024),[],Positive,0.8970271944999695
+we’re tracking the best october prime day 2024 deals live,[],Positive,0.8485091328620911
+12 best amazon prime day hair tool deals to shop right now (2024),"[('▁amazon', 'I-ORG')]",Positive,0.8460448384284973
+"8 best prime day laptop deals (2024): apple, acer, asus","[('▁apple▁acer▁asus', 'I-ORG')]",Positive,0.8657492995262146
+prime day toy deals on stuff our kids love (2024),[],Positive,0.9104501605033875
+"through hurricanes helene and milton, amateur radio triumphs when all else fails",[],Neutral,0.5137990713119507
+"11 best prime day apple deals on macbooks, ipads, more (2024)",[],Positive,0.9483830332756042
+9 best prime day kindle deals and accessories (2024),[],Positive,0.7663026452064514
+"216 best prime day deals, tested and tracked by our team",[],Positive,0.7070446610450745
+ftx customers will get back billions after judge oks bankruptcy plan,[],Neutral,0.7533583641052246
+hurricane helene couldn’t stop birders from using ebird,[],Neutral,0.5411630272865295
+"this man found 1,650 ways to turn a profit while decarbonizing",[],Positive,0.7276017665863037
+appleinsider,"[('▁appleinsider', 'I-ORG')]",Neutral,0.6911690831184387
+roborock robot vacuum & mop combos get hefty prime big deal days discounts up to 63% off,[],Positive,0.6710452437400818
+lofree dot foundation keyboard review: lightweight and stylish,[],Positive,0.6972438097000122
+apple watch series 10 teardown shows progress in everything except repairability,"[('▁apple▁watch▁10', 'I-MISC')]",Positive,0.6614253520965576
+russian youtubers keep showing off alleged m4 macbook pros in historic apple leak,"[('▁rus▁macbook', 'I-MISC'), ('▁apple', 'I-ORG')]",Neutral,0.6771094799041748
+"apple's global head of procurement, dan rosckes, to retire after 24 years","[('▁apple', 'I-ORG'), ('▁dan▁rosckes', 'I-PER')]",Neutral,0.7857565879821777
+"ios 18.1 developer beta 6: new control center toggles, sleep apnea detection, more","[('▁ios▁18.', 'I-MISC')]",Neutral,0.8844793438911438
+"icloud.com updated with dark mode, customization options, and tweaked ui","[('▁icloudcom', 'I-ORG')]",Neutral,0.7295809388160706
+engadget,"[('▁engadget', 'I-ORG')]",Neutral,0.6178923845291138
+the sony wh-1000xm5 headphones are on sale for $298 for october prime day,"[('▁sony▁wh-1000xm', 'I-MISC')]",Neutral,0.8488481044769287
+prime day deals include $50 off the dyson v15 detect plus cordless vacuum,"[('▁dyson▁v15', 'I-MISC')]",Positive,0.6212765574455261
+"the best prime day camera deals on sony, canon, dji and more","[('▁sony▁canon▁dji', 'I-ORG')]",Positive,0.8876788020133972
+the best prime day tech deals under $50,[],Positive,0.8974907994270325
+"prime day laptop deals for 2024: all of the best discounts from apple, acer, lenovo during the big deal days sale","[('▁apple▁acer▁lenovo', 'I-ORG')]",Positive,0.9629166126251221
+"the best prime day kitchen deals on tech, gadgets, accessories and more for 2024",[],Positive,0.9457500576972961
+"the best prime day deals on robot vacuums include up to $600 off machines from irobot, dyson, shark and others","[('▁irobot▁dyson', 'I-ORG')]",Positive,0.9435694813728333
+save big on anker chargers and power banks for october prime day 2024,[],Neutral,0.5375961661338806
+"amazon devices including echo speakers, fire tv sticks and blink cameras are up to 68 percent off for october prime day 2024","[('▁amazon', 'I-ORG')]",Neutral,0.511502742767334
+the best october prime day kindle deals are up to 48 percent off on amazon right now,"[('▁amazon', 'I-ORG')]",Positive,0.9780649542808533
+"prime day gaming deals for 2024: save on the ps5, headsets, mice and more","[('▁ps5', 'I-MISC')]",Positive,0.5445341467857361
+the best prime day ssd deals we could find during amazon's october sale,"[('▁amazon', 'I-ORG')]",Positive,0.9605283141136169
+"the best prime day tv deals from lg, samsung, sony and more","[('▁lg▁samsung▁sony', 'I-ORG')]",Positive,0.9148443937301636
+the best prime day speaker deals during amazon's big deal days sale,"[('▁amazon', 'I-ORG')]",Positive,0.9432424902915955
+apple airtags are nearly 20 percent off for prime day,[],Positive,0.8313363194465637
+the latest apple ipad mini falls to a new low of $350 for prime day,"[('▁apple▁ipad▁mini', 'I-MISC')]",Neutral,0.5208464860916138
+apple's airpods max return to an all-time low of $395 for prime day,"[('▁apple', 'I-ORG'), ('pod', 'I-MISC')]",Positive,0.6835194826126099
+the apple watch se drops to a new low of $170 in this prime day deal,"[('▁apple▁watch▁se', 'I-MISC')]",Neutral,0.71364426612854
+apple's airpods pro 2 drop to $169 for october prime day,"[('▁apple', 'I-ORG'), ('▁airpods▁pro▁2', 'I-MISC')]",Positive,0.6135691404342651
+amazon's echo dot hits a record low of $23 thanks to this prime day deal,"[('▁amazon', 'I-ORG')]",Neutral,0.49029263854026794
+the best robot vacuum for 2024,[],Positive,0.8634290099143982
+amazon’s 2024 fire hd 8 tablet is already on sale for prime day,"[('▁amazon', 'I-ORG'), ('24▁fire▁hd▁8', 'I-MISC')]",Positive,0.543282687664032
+prime day deals include the echo show 8 for an all-time-low price,[],Neutral,0.5760542750358582
+blink security cameras are up to 64 percent off for prime day,[],Positive,0.5169247984886169
+amazon's fire tv stick 4k max drops to a record low price for october prime day,"[('▁amazon', 'I-ORG')]",Positive,0.5492843389511108
+the oneplus 12 smartphone drops to a record low of $650 for prime day,"[('▁oneplus▁12', 'I-MISC')]",Neutral,0.6435208916664124
+amazon prime day deals are available to shop before october big deal days starts tomorrow,"[('▁amazon', 'I-ORG')]",Positive,0.5977874398231506
+google ordered to open up the play store in epic games antitrust ruling,"[('▁google', 'I-ORG')]",Neutral,0.7887894511222839
+prime day deals on laptops include the m2 macbook air for a record low of $749 on amazon,"[('▁m2▁macbook▁air', 'I-MISC'), ('▁amazon', 'I-ORG')]",Positive,0.8523722887039185
+"comcast says 230,000 customers affected by debt collection data breach","[('▁comcast', 'I-ORG')]",Negative,0.5426924228668213
+twitch makes its complicated rulebook easier to follow,[],Neutral,0.5005093216896057
+nintendo’s discounted switch bundles are now available,"[('▁nintendo', 'I-ORG')]",Neutral,0.538429319858551
+meta is working to fix threads' engagement bait problem,[],Neutral,0.6535093188285828
+irobot's roomba combo j9+ robot vacuum and mop is $600 off for prime day,"[('▁irobot', 'I-ORG'), ('▁roomba▁combo▁j9+', 'I-MISC')]",Neutral,0.6545132398605347
+slashdot,"[('▁slashdot', 'I-ORG')]",Neutral,0.6962769627571106
+spacecraft launches toward asteroid knocked off course by nasa,"[('▁nasa', 'I-ORG')]",Neutral,0.8273628354072571
+"cognizant discriminated against non-indian workers, us jury says","[('indi', 'I-MISC')]",Negative,0.7295371890068054
+artist appeals copyright denial for prize-winning ai-generated work,[],Neutral,0.6625869870185852
+germans decry influence of english as 'idiot's apostrophe' gets official approval,[],Negative,0.6302504539489746
+fintech openbb aims to be more than an 'open source bloomberg terminal',"[('▁open', 'I-ORG')]",Neutral,0.5042828321456909
+global semiconductor sales up 20.6% to record $53.1 billion,[],Positive,0.5909558534622192
+fcc lets starlink provide service to cellphones in area hit by hurricane,[],Neutral,0.7988858819007874
+linus torvalds asks kernel devs to write better git merge commit messages,"[('▁linus▁torvalds', 'I-PER')]",Neutral,0.7607733607292175
+the future of halo is being built with unreal engine 5,"[('▁unreal▁engine▁5', 'I-MISC')]",Positive,0.702845573425293
+smart tvs are like 'a digital trojan horse' in people's homes,[],Neutral,0.49775126576423645
+us antitrust case against amazon to move forward,"[('▁us', 'I-LOC'), ('▁amazon', 'I-ORG')]",Neutral,0.7724915146827698
+microrna pioneers win nobel prize in medicine,[],Neutral,0.7386924624443054
+the slow death of the hyperlink,[],Negative,0.6245781779289246
+"google ordered to make sweeping changes, open android app store to rivals","[('▁google', 'I-ORG'), ('▁android', 'I-MISC')]",Neutral,0.5929086804389954
+apple fixes bugs in macos sequoia that broke some cybersecurity tools,"[('▁apple', 'I-ORG')]",Neutral,0.49737274646759033
+google testing a version of chrome for android with extensions support,"[('▁google', 'I-ORG'), ('▁chrome', 'I-MISC')]",Neutral,0.6496649384498596
+big tech has cozied up to nuclear energy,[],Neutral,0.7812644243240356
+daring fireball,[],Neutral,0.5533167719841003
+the talk show: ‘an acoustic nightmare’,[],Neutral,0.6194667816162109
+judge bends google over the barrel in final epic v. google ruling,"[('▁google▁google', 'I-ORG')]",Neutral,0.6927540302276611
+chinese government hackers compromise ‘back door for the good guys’ in u.s. communication networks,"[('▁chi', 'I-MISC'), ('▁us', 'I-LOC')]",Negative,0.5108659267425537
+john naughton on dave winer,"[('▁john▁naughton▁dave▁winer', 'I-PER')]",Neutral,0.8774818181991577
+"30 years of dave winer’s seminal blog, scripting news","[('▁dave▁winer', 'I-PER')]",Neutral,0.803483247756958
+croissant 1.0,[],Neutral,0.7295207381248474
+linux weekly news,"[('▁lin', 'I-MISC')]",Neutral,0.7949206233024597
+openbsd 7.6 released,"[('▁openbsd7.6', 'I-MISC')]",Neutral,0.8672488927841187
+classicpress: wordpress without the block editor,"[('▁classicpress', 'I-ORG')]",Neutral,0.7749503254890442
+python 3.13 released,"[('▁python', 'I-MISC')]",Neutral,0.8793044090270996
+techcrunch,"[('▁techcrunch', 'I-ORG')]",Neutral,0.660673201084137
+open source bi platform lightdash gets accel’s backing to bring ai to business intelligence,[],Positive,0.6014578938484192
+"revyze, a ‘tiktok for education’ startup, draws on duolingo to add bite-sized learning too","[('▁revyze', 'I-ORG')]",Neutral,0.5141828060150146
+french biotech generare speeds up hunt for new drugs by cloning natural molecules,"[('▁fren', 'I-MISC')]",Neutral,0.7631978988647461
+chainalysis ceo michael gronager steps down in move described as temporary,"[('▁michel▁gronager', 'I-PER')]",Neutral,0.7756158709526062
+"general catalyst is working on a ‘continuation’ fund worth up to $1b, sources say",[],Neutral,0.8659709095954895
+vc firm nfx laid off 4 employees and plans to hire more investors,"[('▁nfx', 'I-ORG')]",Neutral,0.828886091709137
+vessl ai secures $12m for its mlops platform that aims to cut gpu costs by up to 80%,"[('▁vessl▁ai', 'I-ORG')]",Positive,0.6593896746635437
+moneygram says hackers stole customers’ personal information and transaction data,[],Negative,0.7151392102241516
+emma watson invests in reproductive health company hertility,"[('▁emma▁watson', 'I-PER'), ('tility', 'I-ORG')]",Neutral,0.9138315320014954
+us judge orders google to open up google play to rivals,"[('▁us', 'I-LOC'), ('▁google', 'I-ORG'), ('▁google▁play', 'I-MISC')]",Neutral,0.692823052406311
+tesla robotaxi event: how to watch the reveal thursday,"[('▁tesla', 'I-MISC')]",Neutral,0.9267851710319519
+the 30-year-old internet backdoor law that came back to bite,[],Negative,0.669080913066864
+india regulator issues notice to ola electric over consumer rights concerns,"[('▁india', 'I-LOC'), ('▁ola▁electric', 'I-ORG')]",Neutral,0.6624965667724609
+tesla’s head of vehicle programs jumps to waymo ahead of robotaxi reveal,"[('▁tesla', 'I-ORG')]",Neutral,0.8861558437347412
+apple fixes bugs in macos sequoia that broke some cybersecurity tools,"[('▁apple', 'I-ORG')]",Neutral,0.49737274646759033
+cloudflare blog,[],Neutral,0.7504078149795532
+bleeping computer,[],Negative,0.848423957824707
+microsoft edge begins testing copilot vision,"[('▁microsoft', 'I-ORG'), ('▁edge', 'I-MISC')]",Neutral,0.8587657809257507
+moneygram confirms hackers stole customer data in cyberattack,[],Negative,0.7254089117050171
+"adt discloses second breach in 2 months, hacked via stolen credentials","[('▁ad', 'I-ORG')]",Negative,0.7035555839538574
+lego's website hacked to push cryptocurrency scam,"[('▁lego', 'I-ORG')]",Negative,0.7338244318962097
+ukrainian pleads guilty to operating raccoon stealer malware,"[('▁ukrain', 'I-MISC')]",Negative,0.7062599658966064
+microsoft: word deletes some documents instead of saving them,"[('▁microsoft', 'I-ORG'), ('▁word', 'I-MISC')]",Negative,0.565932035446167
+qualcomm patches high-severity zero-day exploited in attacks,[],Neutral,0.8040661811828613
+american water shuts down online services after cyberattack,[],Negative,0.7457478046417236
+techradar,[],Neutral,0.6902715563774109
+rush to tech innovation is putting companies at risk of cyberattacks,[],Negative,0.7519746422767639
+"some samsung galaxy s25 phones could use a surprising chipset, but the performance should still be top-notch","[('▁samsung▁galaxy▁s25', 'I-MISC')]",Positive,0.803007960319519
+latest windows 11 24h2 bug performs a vanishing act on your mouse cursor – and i hope microsoft fixes it soon,"[('▁windows▁11', 'I-MISC'), ('▁microsoft', 'I-ORG')]",Neutral,0.48617538809776306
+netflix incurs the wrath of the gods as jeff goldblum-starring kaos series is reportedly canceled after one season,"[('▁netflix', 'I-ORG'), ('ff▁goldblum', 'I-PER')]",Negative,0.8758136630058289
+i added ai to my iphone 16 pro max's action button and now i get the hype,"[('▁iphone▁16▁pro▁max', 'I-MISC')]",Positive,0.8766199946403503
+microsoft word is accidentally deleting documents rather than saving them,"[('▁microsoft▁word', 'I-MISC')]",Negative,0.6960328221321106
+"your privacy on chrome is at risk, here’s what you can do",[],Negative,0.6744003295898438
+dali's new hi-res noise-cancelling headphones are for audiophiles who like a bit of style,"[('▁dali', 'I-ORG')]",Neutral,0.5257880091667175
+the road to industry 5.0 is your data and ai,[],Neutral,0.7362707853317261
+amazon prime day deals are here — but don't fall victim to these scam website,"[('▁amazon', 'I-ORG')]",Negative,0.6507107019424438
+watch: apple's dropped the trailer for the first scripted film for the vision pro,"[(""▁apple's"", 'I-ORG')]",Neutral,0.7982262969017029
+"nyt connections today — hints and answers for tuesday, october 8 (game #485)",[],Neutral,0.917783260345459
+"quordle today – hints and answers for tuesday, october 8 (game #988)",[],Neutral,0.9084594249725342
+"nyt strands today — hints, answers and spangram for tuesday, october 8 (game #219)",[],Neutral,0.9178584814071655
+best buy just gave us our best look at sonos' rumored arc ultra soundbar,"[('▁best▁buy▁sono', 'I-ORG')]",Positive,0.9623700380325317
+"this tiny super cheap $13 pc is barely bigger than an adult pinkie finger and has no os — and yet this hacker-friendly device packs a display, microsd card slot plus wi-fi connectivity",[],Positive,0.7862007021903992
+this ai tool lets you confront your future self – and you might like what you find,[],Positive,0.78767991065979
+"hardware startup wants to solve the multi billion dollar problem of bandwidth by using an ancient technique — ai memory compression technique could save google, microsoft billions but nvidia won't be happy","[('▁google▁microsoft▁nvidia', 'I-ORG')]",Neutral,0.5312864184379578
+microsoft’s new h200 v5 series vms for azure aim to supercharge gpu performance,"[('▁microsoft', 'I-ORG')]",Neutral,0.5676476359367371
+goodnotes adds an ai that can read and explain even the worst handwriting,[],Positive,0.6462820768356323
+makers rejoice! this mini pc has a rare expansion connector that no rival offers — 9-pin port is located on the front of geekom device and could be useful for some great diy projects,[],Positive,0.9807298183441162
+the shortcut,[],Neutral,0.6727901697158813
+this m2 macbook air prime day deal is an absolute steal at $749,"[('▁m2▁macbook▁air', 'I-MISC')]",Negative,0.5022664070129395
+serve the home,[],Neutral,0.6547332406044006
+supermicro megadc ars-211m-nr review an ampere ampereone arm server is here,[],Neutral,0.9222651124000549

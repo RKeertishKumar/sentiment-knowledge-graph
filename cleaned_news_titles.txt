@@ -1,0 +1,249 @@
+The Brutalist Report
+login
+All
+Tech
+News
+Business
+Science
+Gaming
+Culture
+Politics
+Sports
+WordCloud
+Summarizer
+Premium
+About
+5
+10
+15
+25
+50
+Hacker News
+A popular but wrong way to convert a string to uppercase or lowercase
+SigNoz (YC W21) Is Hiring Site Reliability Engineers (Remote)
+Want Growth? Kill Small Businesses
+Ask HN: Good Online Maths Communities?
+Engineering Geology of the BART System (2000)
+Salt Typhoon hacked US broadband providers and breached wiretap systems
+Mexico revives century-old railway in $2.8B bid to rival Panama Canal (2023)
+Show HN: Running Game Boy ROMs on the STM32 ARM Cortex Microcontroller
+Ask HN: Have you built something that users have become addicted to or overused?
+The costs of the i386 to x86-64 upgrade
+FTX creditors will make money on bankruptcy: $1.19 for every dollar
+Japan's Cat Island Won't Survive Much Longer
+An illustrated proof of the CAP theorem
+Video Surveillance with YOLO+llava
+MoneyGram says hacker stole customers' personal information and transaction data
+Rust is rolling off the Volvo assembly line
+Witches Around the World
+Private Equity Ruins Tech Companies
+uBlock Origin supports filtering CNAME cloaking sites on Firefox now
+Show HN: AI-generated images that look like real life
+How private intelligence companies became the new spymasters
+Sam Altman Goes Full Emperor
+Is AWS S3 having an outage?
+Is the Attack Helicopter Dead?
+Gunter's Space Page
+Who's a Good Boy? A Puppy Linux Mini-Review
+Google must crack open Android for third-party stores, rules Epic judge
+Wigle.net: All the Networks. Found by Everyone
+Microsoft didn't sandbox Windows Defender, so I did (2017)
+EuroBSDcon 2024 some notes after the conference
+Decoding Bitcoin: An interactive, exercise-heavy approach to learning Bitcoin
+US antitrust case against Amazon to move forward
+Do not use secrets in environment variables and
+The Verge
+Google Docs will let users organize information into tabs
+Samsung apologizes for making just $6.8 billion last quarter
+Apple’s next MacBook Pros might have leaked in Russia
+Chevy’s cheapest Silverado EV now starts at $57,095
+Another major hurricane is approaching Florida, one of the most rapidly intensifying on record
+Watch this one minute preview of Apple’s first scripted Vision Pro short
+Judge greenlights FTC’s antitrust suit against Amazon
+Google must crack open Android for third-party stores, rules Epic judge
+Ubisoft responds to rumors about Tencent’s potential buyout
+ArsTechnica
+Reports: China hacked Verizon and AT&T, may have accessed US wiretap systems
+SpaceX launches Europe’s Hera asteroid mission ahead of Hurricane Milton
+Alien: Isolation sequel bursts into existence, 10 years after original
+Report: First wave of M4 Macs, including smaller Mac mini, coming November 1
+Elon Musk’s X loses battle over federal request for Trump’s DMs
+SCOTUS denial ends saga of Shkreli’s infamous 5,000% drug price scheme
+FCC lets Starlink provide service to cell phones in areas hit by hurricane
+Smart TVs are like “a digital Trojan Horse” in people’s homes
+Medicine Nobel goes to previously unknown way of controlling genes
+Hurricane Milton becomes second-fastest storm to reach Category 5 status
+The Register
+Workday beats Oracle and Microsoft in UK 'Matrix' ERP deal
+Microsoft veteran ditches Team Tabs, blaming storage trauma of yesteryear
+A year after taking on Intel's NUC mini-PCs, Asus says it's ready to improve them
+Happy birthday, Putin – you've been pwned
+XCP-NG thanks Broadcom for increased interest, swipes Citrix for not helping build an alternative
+Samsung apologizes for bad financial performance
+Google brings better bricking to Androids, to curtail crims
+China reportedly tells local AI buyers to ignore Nvidia
+Feds reach for sliver of crypto-cash nicked by North Korea's notorious Lazarus Group
+Epic judge orders Google to let rivals set up app stores
+Inflection AI Enterprise offering ditches Nvidia GPUs for Intel's Gaudi 3
+American Water stops billing for H2O due to 'cybersecurity incident'
+American Water rinsed in cyberattack, turns off app
+Vulcan Centaur avoids FAA scrutiny after losing solid rocket booster nozzle
+Geico tells El Reg, no, it's not canceling all Cybertruck insurance
+Cops love facial recognition, and withholding info on its use from the courts
+Samsung chairman debunks foundry, chip biz spinoff rumors
+Quantum computing dreamers face stock market reality check
+Chinese cyberspies reportedly breached Verizon, AT&T, Lumen
+You're right not to rush into running AMD, Intel's new manycore monster CPUs
+Global semiconductor sales up 20.6% to record $53.1B as trade wars rage on
+Netflix on Mars? Sure, thanks to NASA's laser comms demo
+SAP offers different way to move SQL Server-based software to the cloud
+Windows 11 migration? Upgrade engine revs up, enterprises have no choice
+Atos stumbles again as French government says 'non' to rescue deal
+Rival browsers cry foul after Microsoft Edge slips through EU gatekeeper cracks
+'Critical' CUPS vulnerability chain easy to use for massive DDoS attacks
+Three and Vodafone: We need to merge because our networks are rubbish
+Three and Vodafone: We need to merge because our networks are rubbish
+Phoronix
+GNOME Foundation Announces Cost Cutting Measures Due To Budget Woes
+OpenBSD 7.6 Released With AVX-512, Initial Support For Snapdragon X Elite SoCs
+FEX 2410 Released With New JIT Optimizations
+Python 3.13 Debuts With New Interactive Interpreter & Experimental JIT
+Wired
+Best Prime Day Mattress Deals Plus Epic Bedding Sales (2024)
+We’re Tracking the Best October Prime Day 2024 Deals Live
+12 Best Amazon Prime Day Hair Tool Deals to Shop Right Now (2024)
+8 Best Prime Day Laptop Deals (2024): Apple, Acer, Asus
+Prime Day Toy Deals On Stuff Our Kids Love (2024)
+Through Hurricanes Helene and Milton, Amateur Radio Triumphs When All Else Fails
+11 Best Prime Day Apple Deals on MacBooks, iPads, More (2024)
+9 Best Prime Day Kindle Deals and Accessories (2024)
+216 Best Prime Day Deals, Tested and Tracked By Our Team
+FTX Customers Will Get Back Billions After Judge OKs Bankruptcy Plan
+Hurricane Helene Couldn’t Stop Birders From Using eBird
+This Man Found 1,650 Ways to Turn a Profit While Decarbonizing
+AppleInsider
+Roborock robot vacuum & mop combos get hefty Prime Big Deal Days discounts up to 63% off
+Lofree Dot Foundation keyboard review: lightweight and stylish
+Apple Watch Series 10 teardown shows progress in everything except repairability
+Russian YouTubers keep showing off alleged M4 MacBook Pros in historic Apple leak
+Apple's global head of procurement, Dan Rosckes, to retire after 24 years
+iOS 18.1 developer beta 6: New Control Center toggles, sleep apnea detection, more
+iCloud.com updated with dark mode, customization options, and tweaked UI
+Engadget
+The Sony WH-1000XM5 headphones are on sale for $298 for October Prime Day
+Prime Day deals include $50 off the Dyson V15 Detect Plus cordless vacuum
+The best Prime Day camera deals on Sony, Canon, DJI and more
+The best Prime Day tech deals under $50
+Prime Day laptop deals for 2024: All of the best discounts from Apple, Acer, Lenovo during the Big Deal Days sale
+The best Prime Day kitchen deals on tech, gadgets, accessories and more for 2024
+The best Prime Day deals on robot vacuums include up to $600 off machines from iRobot, Dyson, Shark and others
+Save big on Anker chargers and power banks for October Prime Day 2024
+Amazon devices including Echo speakers, Fire TV Sticks and Blink cameras are up to 68 percent off for October Prime Day 2024
+The best October Prime Day Kindle deals are up to 48 percent off on Amazon right now
+Prime Day gaming deals for 2024: Save on the PS5, headsets, mice and more
+The best Prime Day SSD deals we could find during Amazon's October sale
+The best Prime Day TV deals from LG, Samsung, Sony and more
+The best Prime Day speaker deals during Amazon's Big Deal Days Sale
+Apple AirTags are nearly 20 percent off for Prime Day
+The latest Apple iPad mini falls to a new low of $350 for Prime Day
+Apple's AirPods Max return to an all-time low of $395 for Prime Day
+The Apple Watch SE drops to a new low of $170 in this Prime Day deal
+Apple's AirPods Pro 2 drop to $169 for October Prime Day
+Amazon's Echo Dot hits a record low of $23 thanks to this Prime Day deal
+The best robot vacuum for 2024
+Amazon’s 2024 Fire HD 8 tablet is already on sale for Prime Day
+Prime Day deals include the Echo Show 8 for an all-time-low price
+Blink security cameras are up to 64 percent off for Prime Day
+Amazon's Fire TV Stick 4K Max drops to a record low price for October Prime Day
+The OnePlus 12 smartphone drops to a record low of $650 for Prime Day
+Amazon Prime Day deals are available to shop before October Big Deal Days starts tomorrow
+Google ordered to open up the Play Store in Epic Games antitrust ruling
+Prime Day deals on laptops include the M2 MacBook Air for a record low of $749 on Amazon
+Comcast says 230,000 customers affected by debt collection data breach
+Twitch makes its complicated rulebook easier to follow
+Nintendo’s discounted Switch bundles are now available
+Meta is working to fix Threads' engagement bait problem
+iRobot's Roomba Combo j9+ robot vacuum and mop is $600 off for Prime Day
+Slashdot
+Spacecraft Launches Toward Asteroid Knocked Off Course By NASA
+Cognizant Discriminated Against Non-Indian Workers, US Jury Says
+Artist Appeals Copyright Denial For Prize-Winning AI-Generated Work
+Germans Decry Influence of English As 'Idiot's Apostrophe' Gets Official Approval
+Fintech OpenBB Aims To Be More Than an 'Open Source Bloomberg Terminal'
+Global Semiconductor Sales Up 20.6% To Record $53.1 Billion
+FCC Lets Starlink Provide Service To Cellphones In Area Hit By Hurricane
+Linus Torvalds Asks Kernel Devs To Write Better Git Merge Commit Messages
+The Future of Halo Is Being Built With Unreal Engine 5
+Smart TVs Are Like 'a Digital Trojan Horse' in People's Homes
+US Antitrust Case Against Amazon To Move Forward
+MicroRNA Pioneers Win Nobel Prize in Medicine
+The Slow Death of the Hyperlink
+Google Ordered To Make Sweeping Changes, Open Android App Store To Rivals
+Apple Fixes Bugs in macOS Sequoia That Broke Some Cybersecurity Tools
+Google Testing a Version of Chrome for Android With Extensions Support
+Big Tech Has Cozied Up To Nuclear Energy
+Daring Fireball
+The Talk Show: ‘An Acoustic Nightmare’
+Judge Bends Google Over the Barrel in Final Epic v. Google Ruling
+Chinese Government Hackers Compromise ‘Back Door for the Good Guys’ in U.S. Communication Networks
+John Naughton on Dave Winer
+30 Years of Dave Winer’s Seminal Blog, Scripting News
+Croissant 1.0
+Linux Weekly News
+OpenBSD 7.6 released
+ClassicPress: WordPress without the block editor
+Python 3.13 released
+TechCrunch
+Open source BI platform Lightdash gets Accel’s backing to bring AI to business intelligence
+Revyze, a ‘TikTok for education’ startup, draws on Duolingo to add bite-sized learning too
+French biotech Generare speeds up hunt for new drugs by cloning natural molecules
+Chainalysis CEO Michael Gronager steps down in move described as temporary
+General Catalyst is working on a ‘continuation’ fund worth up to $1B, sources say
+VC firm NFX laid off 4 employees and plans to hire more investors
+VESSL AI secures $12M for its MLOps platform that aims to cut GPU costs by up to 80%
+MoneyGram says hackers stole customers’ personal information and transaction data
+Emma Watson invests in reproductive health company Hertility
+US judge orders Google to open up Google Play to rivals
+Tesla Robotaxi event: How to watch the reveal Thursday
+The 30-year-old internet backdoor law that came back to bite
+India regulator issues notice to Ola Electric over consumer rights concerns
+Tesla’s head of vehicle programs jumps to Waymo ahead of Robotaxi reveal
+Apple fixes bugs in macOS Sequoia that broke some cybersecurity tools
+Cloudflare Blog
+Bleeping Computer
+Microsoft Edge begins testing Copilot Vision
+MoneyGram confirms hackers stole customer data in cyberattack
+ADT discloses second breach in 2 months, hacked via stolen credentials
+LEGO's website hacked to push cryptocurrency scam
+Ukrainian pleads guilty to operating Raccoon Stealer malware
+Microsoft: Word deletes some documents instead of saving them
+Qualcomm patches high-severity zero-day exploited in attacks
+American Water shuts down online services after cyberattack
+TechRadar
+Rush to tech innovation is putting companies at risk of cyberattacks
+Some Samsung Galaxy S25 phones could use a surprising chipset, but the performance should still be top-notch
+Latest Windows 11 24H2 bug performs a vanishing act on your mouse cursor – and I hope Microsoft fixes it soon
+Netflix incurs the wrath of the gods as Jeff Goldblum-starring Kaos series is reportedly canceled after one season
+I added AI to my iPhone 16 Pro Max's Action button and now I get the hype
+Microsoft Word is accidentally deleting documents rather than saving them
+Your privacy on Chrome is at risk, here’s what you can do
+Dali's new hi-res noise-cancelling headphones are for audiophiles who like a bit of style
+The road to Industry 5.0 is your data and AI
+Amazon Prime Day deals are here — but don't fall victim to these scam website
+Watch: Apple's dropped the trailer for the first scripted film for the Vision Pro
+NYT Connections today — hints and answers for Tuesday, October 8 (game #485)
+Quordle today – hints and answers for Tuesday, October 8 (game #988)
+NYT Strands today — hints, answers and spangram for Tuesday, October 8 (game #219)
+Best Buy just gave us our best look at Sonos' rumored Arc Ultra soundbar
+This tiny super cheap $13 PC is barely bigger than an adult pinkie finger and has no OS — and yet this hacker-friendly device packs a display, MicroSD card slot plus Wi-Fi connectivity
+This AI tool lets you confront your future self – and you might like what you find
+Hardware startup wants to solve the multi billion dollar problem of bandwidth by using an ancient technique — AI memory compression technique could save Google, Microsoft billions but Nvidia won't be happy
+Microsoft’s new H200 v5 series VMs for Azure aim to supercharge GPU performance
+Goodnotes adds an AI that can read and explain even the worst handwriting
+Makers rejoice! This mini PC has a rare expansion connector that no rival offers — 9-pin port is located on the front of Geekom device and could be useful for some great DIY projects
+The Shortcut
+This M2 MacBook Air Prime Day deal is an absolute steal at $749
+Serve The Home
+Supermicro MegaDC ARS-211M-NR Review An Ampere AmpereOne Arm Server is Here
+Previous Day
+Brutalist Network
