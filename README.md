@@ -1,6 +1,3 @@
-You're absolutely right, and I apologize for the oversight. Here's the entire **README.md** content in proper markdown format, ready for you to copy and paste:
-
-```markdown
 # Sentiment-Enhanced Knowledge Graph for News Articles
 
 A Neo4j-powered knowledge graph that links news articles to entities and performs sentiment analysis to provide insights into media trends. This project scrapes news articles, extracts entities using Named Entity Recognition (NER), analyzes the sentiment of each article, and builds a visual, queryable knowledge graph using Neo4j.
